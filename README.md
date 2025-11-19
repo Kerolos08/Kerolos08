@@ -1,242 +1,180 @@
 ## Hi there 👋
 
+# 🌃 Kerolos Hany - Welcome to Vice City Code
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Kerolos Hany&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=[Your role]%20%7C%20[Your company]&descAlignY=58&descAlign=50"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+Kerolos Hany's+Criminal+Enterprise;Coding+in+Vice+City+Since+Day+One;Ready+to+Steal+Some+Code?" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  
-  <!-- Glassmorphism Profile Card -->
+  <img src="https://gitsk-comp2.vercel.app/api/stats?user=Kerolos08" />
+</div>
+
+
+
+## 🚗 Criminal Stats & Reputation
+
+<div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 20px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=[Your tagline];Solving problems, reflecting my knowledge to actual projects." alt="Typing SVG" />
+      <td>
+        <img src="https://img.shields.io/badge/💰_Heists_Completed-∞-32CD32?style=for-the-badge&logo=dollar&logoColor=white&labelColor=000000" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/🔫_Wanted_Level-⭐⭐⭐⭐⭐-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/🏢_Territory-Cairo, Egypt-FF00FF?style=for-the-badge&logo=building&logoColor=white&labelColor=000000" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/👔_Organization-[Your company]-00FFFF?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=000000" />
       </td>
     </tr>
   </table>
-  
-  <br/>
-  
-  <!-- Clean Social Links -->
-  <a href="mailto:Kerolosxj0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white&labelColor=transparent" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="[Your website]">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white&labelColor=transparent" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/Kerolos08">
-    <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=flat-square&logo=linkedin&logoColor=white&labelColor=transparent" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Kerolos08">
-    <img src="https://img.shields.io/badge/GitHub-45B7D1?style=flat-square&logo=github&logoColor=white&labelColor=transparent" alt="GitHub"/>
-  </a>
-  
-  <br/><br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Kerolos08&color=6C63FF&style=flat-square&label=visitors)
-
 </div>
 
----
+## 🕴️ Criminal Profile
 
 <div align="center">
-
-## ✨ About Me
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kerolos08&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&icon_color=FF6B6B&text_color=4A4A4A&bg_color=00000000" alt="GitHub Stats"/>
-    </td>
-    <td align="center" width="50%">
-      <div style="text-align: left; padding: 20px;">
-        <p><strong>📍 Location:</strong> Cairo, Egypt</p>
-        <p><strong>🏢 Company:</strong> [Your company]</p>
-        <p><strong>💼 Role:</strong> [Your role]</p>
-        <p><strong>🌱 Learning:</strong> [Your currentLearning]</p>
-        <p><strong>🎯 Goal:</strong> [Your currentGoal]</p>
-        <p><strong>⚡ Fun fact:</strong> [Your funFact]</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Kerolos08&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&border_color=ff00ff" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerolos08&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff00ff&text_color=ffffff&border_color=ff00ff" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-
-### 💭 Bio
-*I’m a passionate learner shifting into software development.
+```python
+class CriminalMastermind:
+    def __init__(self):
+        self.name = "Kerolos Hany"
+        self.alias = "Kerolos08"
+        self.role = "[Your role]"
+        self.location = "Cairo, Egypt"
+        self.organization = "[Your company]"
+        self.contact = "Kerolosxj0@gmail.com"
+        self.hideout = "[Your website]"
+    
+    def get_backstory(self):
+        return """
+        I’m a passionate learner shifting into software development.
 Currently focused on mastering C++ and understanding the core principles of computer science, algorithms, and OOP.
-I enjoy solving problems, writing clean code, and continuously improving my skills through real projects and challenges.*
+I enjoy solving problems, writing clean code, and continuously improving my skills through real projects and challenges.
+        """
+    
+    def current_operations(self):
+        return [[Your currentProjects]]
+    
+    def secret_intel(self):
+        return "perfectionist 😄"
+    
+    def reputation_status(self):
+        return "LEGENDARY CRIMINAL MASTERMIND"
+```
 
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<!-- Language Stats -->
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerolos08&layout=compact&theme=transparent&hide_border=true&title_color=6C63FF&text_color=4A4A4A&bg_color=00000000" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- Skills Grid -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Frontend-6C63FF?style=for-the-badge&logoColor=white"/>
-      <br/>
-      <sub>[Your frontendSkills]</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Backend-FF6B6B?style=for-the-badge&logoColor=white"/>
-      <br/>
-      <sub>[Your backendSkills]</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Database-4ECDC4?style=for-the-badge&logoColor=white"/>
-      <br/>
-      <sub></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Tools-45B7D1?style=for-the-badge&logoColor=white"/>
-      <br/>
-      <sub>[Your toolsSkills]</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
+## 🛠️ Criminal Arsenal & Tools
 
 <div align="center">
+  <h3>💻 Digital Weapons</h3>
+  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)&theme=dark" />
+  
+  <h3>🔧 Heist Equipment</h3>
+  <img src="https://skillicons.dev/icons?i=[Your frontendSkills]&theme=dark" />
+  
+  <h3>🏪 Underground Network</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,[Your backendSkills]&theme=dark" />
+  
+  <h3>🎮 Gaming & Design</h3>
+  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)blender,photoshop,figma,xd,sketch&theme=dark" />
+</div>
 
-## 🚀 Current Projects
+## 🎯 Active Heists & Operations
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <div style="min-height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
-        <h3>[Your project1Name]</h3>
-        <p><sub>[Your project1Description]</sub></p>
-        <a href="[Your project1Link]">
-          <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=flat-square&logo=github&logoColor=white"/>
+<div align="center">
+  <h3>🏦 Current Criminal Activities</h3>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎮_Project_Alpha-[Your currentProjects]-FF00FF?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=000000" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💎_Skill_Mastery-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)-00FFFF?style=for-the-badge&logo=diamond&logoColor=white&labelColor=000000" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kerolos08&theme=neon-dark&hide_border=true&background=0a0a0a&stroke=ff00ff&ring=00ffff&fire=ff0000&currStreakLabel=ff00ff&sideLabels=ffffff&dates=ffffff" />
+</div>
+
+## 🏆 Criminal Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kerolos08&theme=dark_lover&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Repositories,Commits,Issues,MultiLanguage,PullRequest,Reviews" />
+</div>
+
+## 📱 Secure Communication Channels
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="mailto:Kerolosxj0@gmail.com">
+          <img src="https://img.shields.io/badge/📧_Encrypted_Comms-Kerolosxj0@gmail.com-FF00FF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000" />
         </a>
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <div style="min-height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
-        <h3>[Your project2Name]</h3>
-        <p><sub>[Your project2Description]</sub></p>
-        <a href="[Your project2Link]">
-          <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=flat-square&logo=github&logoColor=white"/>
+      </td>
+      <td>
+        <a href="[Your website]">
+          <img src="https://img.shields.io/badge/🌐_Secret_Hideout-[Your website]-00FFFF?style=for-the-badge&logo=tor&logoColor=white&labelColor=000000" />
         </a>
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <div style="min-height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
-        <h3>[Your project3Name]</h3>
-        <p><sub>[Your project3Description]</sub></p>
-        <a href="[Your project3Link]">
-          <img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+      </td>
+    </tr>
+  </table>
+</div>
 
+## 📊 Criminal Activity Tracker
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kerolos08&bg_color=0a0a0a&color=ff00ff&line=00ffff&point=ff0000&area=true&hide_border=true&custom_title=Criminal%20Activity%20Graph" />
+</div>
+
+## 🎰 Vice City Intel Drop
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=perfectionist 😄&author=Kerolos Hany&border=true" />
+</div>
+
+## 🌆 Neon Nights Footer
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=neon&color=gradient&customColorList=24&height=150&section=footer&animation=blinking&fontSize=25&text=Keep+It+Criminal%2C+Keep+It+Cool" />
+  
+  <h3>🚗💨 Thanks for visiting Vice City! Remember: In code we trust, in bugs we debug! 🚗💨</h3>
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=Kerolos08&color=ff00ff&style=neon&label=Heists+Witnessed" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/🎮_Status-Online_in_Vice_City-00FF00?style=neon&logo=gamepad&logoColor=white&labelColor=000000" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <div align="center">
-
-## 📈 GitHub Activity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kerolos08&theme=transparent&hide_border=true&stroke=6C63FF&ring=FF6B6B&fire=4ECDC4&currStreakLabel=6C63FF&background=00000000" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kerolos08&theme=minimal&hide_border=true&bg_color=00000000&color=6C63FF&line=FF6B6B&point=4ECDC4&area=true&area_color=6C63FF" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎨 Interests & Hobbies
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/[Your interest1]-6C63FF?style=flat-square&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/[Your interest2]-FF6B6B?style=flat-square&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/[Your interest3]-4ECDC4?style=flat-square&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/[Your interest4]-45B7D1?style=flat-square&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-### 🌟 Philosophy
-> "[Your personalPhilosophy]"
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Let's Connect
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:Kerolosxj0@gmail.com">
-        <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="[Your website]">
-        <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/Kerolos08">
-        <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="[Your socialLink]">
-        <img src="https://img.shields.io/badge/[Your socialPlatform]-45B7D1?style=for-the-badge&logo=[Your socialLogo]&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 💡 Open to opportunities in: [Your opportunityAreas]
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=18&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+✨;Let's+create+something+amazing+together!+🚀;Always+happy+to+connect+and+collaborate!+💫" alt="Footer Message"/>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
+  <h4>🌃 "In a world full of bugs, be the feature." - Kerolos Hany 🌃</h4>
 </div>
