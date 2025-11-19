@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Kero 👋
+# 💫 Hi, I'm Kero 
 I’m a passionate learner shifting into software development.<br>Currently focused on mastering C++ and understanding the core principles of computer science, algorithms, and OOP.<br>I enjoy solving problems, writing clean code, and continuously improving my skills through real projects and challenges.<br>
 
 
